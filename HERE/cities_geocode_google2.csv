@@ -1,0 +1,3 @@
+"country","location_name","center_lat","center_lng","bounds_northeast_lat","bounds_northeast_lng","bounds_southwest_lat","bounds_southwest_lng","viewport_northeast_lat","viewport_northeast_lng","viewport_southwest_lat","viewport_southwest_lng"
+"Poland","Czeladź","50.317273","19.0704415","50.3439869","19.1192861","50.29423380000001","19.0452801","50.3439869","19.1192861","50.29423380000001","19.0452801"
+"Brazil","Acajutiba","-11.661242","-38.0188963","-11.6478461","-37.9936833","-11.6879762","-38.0353691","-11.6478461","-37.9936833","-11.6879762","-38.0353691"
