@@ -1,7 +1,7 @@
 import requests
 
 # You mentioned you have the API key, so make sure to replace 'YOUR_API_KEY_HERE' with your actual HERE API key.
-API_KEY = '-OKDy7P58cwhUqZZwTXGdjGn_nbqpiK93AmSfUu6CYk'
+API_KEY = ''
 HERE_REVERSE_GEOCODE_URL = "https://revgeocode.search.hereapi.com/v1/revgeocode"
 
 def reverse_geocode(lat, lon):
